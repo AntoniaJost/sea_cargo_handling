@@ -19,6 +19,5 @@ There are several interesting questions that one could ask about the mentioned d
 - Which categories of goods are most frequently imported and exported? Can we highlight specific resource availabilities?
 - How will this import/export continue in the future? Can we forecast some future trends in either cargo volume or which goods will be required most?
 - Is there a correlation between the import and export volumes of certain goods? For example, does an increase in import of raw materials correlate with an increase in export of finished products?
-- Can we identify factors (and if so which) that significantly impact the volume of goods handled?
 - Can we see similar trends in the export of crops that need similar growing conditions and can we maybe link their export amount per year to certain climatic conditions during that time?
 - Are technological, or in general processed, goods imported more rapidly/slower than agricultural products and how about the amounts each?
